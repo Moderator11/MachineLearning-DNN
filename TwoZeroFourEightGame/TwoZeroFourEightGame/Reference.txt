@@ -1,0 +1,27 @@
+﻿     
+	 
+	 
+	 
+	 
+	 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=infoefficien&logNo=220769665748
+	 https://dryjelly.tistory.com/137?category=785786
+
+	 https://yjs-program.tistory.com/173
+
+            https://seunghan96.github.io/rl/35.DQN%EA%B5%AC%ED%98%842/
+            https://github.com/junkwhinger/dqn/blob/master/.ipynb_checkpoints/DQN_training-checkpoint.ipynb
+            https://jsideas.net/dqn/
+            https://mambo-coding-note.tistory.com/m/507#:~:text=%EA%B0%84%EB%8B%A8%ED%9E%88%20%EB%A7%90%ED%95%98%EC%9E%90%EB%A9%B4%2C%20DQN%EC%9D%80%20%EC%96%B4%EB%96%A4,%EB%8A%94%20Q%2DLearning%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%ED%95%9C%EB%8B%A4.
+            https://velog.io/@d2h10s/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-DQN-i68kgkfr
+            https://ropiens.tistory.com/134
+            https://yjs-program.tistory.com/173
+            https://wikidocs.net/169314
+            https://pasus.tistory.com/m/131
+            https://insightcampus.co.kr/2021/11/03/deep-q-networkdqn/
+            https://m.blog.naver.com/atelierjpro/220878596211
+
+
+	https://stackoverflow.com/questions/49840892/deep-q-network-is-not-learning
+	https://www.csharpstudy.com/Threads/parallel.aspx
+
+	https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial

@@ -1,0 +1,8 @@
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\bin\Debug\TwoZeroFourEightGame.exe.config
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\bin\Debug\TwoZeroFourEightGame.exe
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\bin\Debug\TwoZeroFourEightGame.pdb
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\obj\Debug\TwoZeroFourEightGame.csproj.CoreCompileInputs.cache
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\obj\Debug\TwoZeroFourEightGame.exe
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\obj\Debug\TwoZeroFourEightGame.pdb
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\obj\Debug\TwoZeroFourEightGame.csproj.AssemblyReference.cache
+C:\Users\soo\source\repos\TwoZeroFourEightGame\TwoZeroFourEightGame\obj\Debug\TwoZeroFourEightGame.csproj.SuggestedBindingRedirects.cache
