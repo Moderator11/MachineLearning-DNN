@@ -1,0 +1,8 @@
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe.config
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\bin\Debug\MachineLearning.pdb
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\obj\Debug\MachineLearning.exe
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\obj\Debug\MachineLearning.pdb
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csproj.AssemblyReference.cache
+C:\Users\soo\source\repos\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csproj.SuggestedBindingRedirects.cache

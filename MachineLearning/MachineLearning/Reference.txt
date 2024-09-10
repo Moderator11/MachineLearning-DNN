@@ -1,0 +1,37 @@
+﻿
+
+
+
+
+        //https://playground.tensorflow.org/
+        //https://developers.google.com/machine-learning/practica/image-classification
+        //https://ml-cheatsheet.readthedocs.io/en/latest/forwardpropagation.html
+
+        //https://gomguard.tistory.com/m/182
+        //https://cs.stackexchange.com/questions/35266/ann-backpropagation-with-multiple-output-neurons
+
+		//https://ysyblog.tistory.com/111
+		//https://velog.io/@bbirong/2%EC%9E%A5.-%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0-Perceptron
+
+        //<핵심>
+        //https://doomed-lab.tistory.com/41
+        //https://wikidocs.net/150781
+
+
+        //for future
+        //https://visualstudiomagazine.com/articles/2017/08/01/neural-network-momentum.aspx
+
+        
+		//https://wikidocs.net/36033    https://velog.io/@arittung/DeepLearningStudyDay8
+
+
+        //Structure
+
+        
+        //Weights :               W[0]    W[1]    W[2]       Length : LayerCount - 1
+        //Layers :            L[0]    L[1]    L[2]    L[3]   Length : LayerCount
+        //Biases :                    B[0]    B[1]    B[2]   Length : LayerCount - 1 (Since Input does not need bias)
+		//ActivationFuncs :   F[0]	  F[1]	  F[2]	  F[3]   Length : LayerCount (F[0] does not do anything)
+
+
+        //Structure
