@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawToText", "DrawToText\DrawToText.csproj", "{18AB457F-99BE-4380-A01B-758D83258528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18AB457F-99BE-4380-A01B-758D83258528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AB457F-99BE-4380-A01B-758D83258528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AB457F-99BE-4380-A01B-758D83258528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AB457F-99BE-4380-A01B-758D83258528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C168A71C-9AC5-40BE-820B-BD697C3A6471}
+	EndGlobalSection
+EndGlobal
