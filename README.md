@@ -1,2 +1,2 @@
 # MachineLearning-Projects
-Deep neural network implemented on C#
+Several projects that are related to AI/ML
