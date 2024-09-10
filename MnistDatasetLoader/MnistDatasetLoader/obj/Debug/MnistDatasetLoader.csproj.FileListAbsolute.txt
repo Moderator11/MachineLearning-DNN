@@ -1,0 +1,11 @@
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\bin\Debug\MnistDatasetLoader.exe.config
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\bin\Debug\MnistDatasetLoader.exe
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\bin\Debug\MnistDatasetLoader.pdb
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.csproj.AssemblyReference.cache
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.Form1.resources
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.Properties.Resources.resources
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.csproj.GenerateResource.cache
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.csproj.CoreCompileInputs.cache
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.exe
+C:\Users\soo\source\repos\MnistDatasetLoader\MnistDatasetLoader\obj\Debug\MnistDatasetLoader.pdb
