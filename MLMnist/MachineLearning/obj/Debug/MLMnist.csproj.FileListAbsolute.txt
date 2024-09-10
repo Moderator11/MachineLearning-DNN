@@ -1,0 +1,7 @@
+C:\Users\soo\Desktop\MLMnist\MachineLearning\obj\Debug\MLMnist.csproj.AssemblyReference.cache
+C:\Users\soo\Desktop\MLMnist\MachineLearning\obj\Debug\MLMnist.csproj.CoreCompileInputs.cache
+C:\Users\soo\Desktop\MLMnist\MachineLearning\obj\Debug\MachineLearning.exe
+C:\Users\soo\Desktop\MLMnist\MachineLearning\obj\Debug\MachineLearning.pdb
+C:\Users\soo\Desktop\MLMnist\MachineLearning\bin\Debug\MachineLearning.exe.config
+C:\Users\soo\Desktop\MLMnist\MachineLearning\bin\Debug\MachineLearning.exe
+C:\Users\soo\Desktop\MLMnist\MachineLearning\bin\Debug\MachineLearning.pdb
